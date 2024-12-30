@@ -10,18 +10,18 @@ A demo can be watched at [CS50P Homepage](https://cs50.harvard.edu/python/2022/p
 1. Clone the repository:
 ```sh
 # Using SSh 
-ssh git@github.com:krigjo25/console-Extension-py.git
+ssh git@github.com:krigjo25/Console-Extension-py.git
 
 # Using git bash
-git clone https://github.com/krigjo25/console-Extension-py.git
+git clone https://github.com/krigjo25/Console-Extension-py.git
 
 # Using Github Cli
-gh repo clone console-Extension-py
+gh repo clone Console-Extension-py
 ```
 
 2. Navigate to the project directory
 ```sh
-cd console-Extension-py
+cd Console-Extension-py
 ```
 
 3. Run the file
